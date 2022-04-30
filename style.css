@@ -26,7 +26,7 @@
   text-transform: uppercase;
   margin:10px 10px;
   overflow:hidden;
-  position:relative;
+  position:absolute;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
